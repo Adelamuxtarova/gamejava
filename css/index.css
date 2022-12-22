@@ -1,0 +1,19 @@
+
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96f09276-6a82-4009-8ce3-66c1647a3c87/dev0k76-8232251d-54e3-481a-af2e-29f5ef8cdd30.png/v1/fill/w_1035,h_772,q_70,strp/download_now_my_flappy_bird_game__by_tasa404_dev0k76-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODM1IiwicGF0aCI6IlwvZlwvOTZmMDkyNzYtNmE4Mi00MDA5LThjZTMtNjZjMTY0N2EzYzg3XC9kZXYwazc2LTgyMzIyNTFkLTU0ZTMtNDgxYS1hZjJlLTI5ZjVlZjhjZGQzMC5wbmciLCJ3aWR0aCI6Ijw9MTEyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.grNzU82ivypHh5C1bOJ5HqbMyFIdbIDnHanb4FaTA4Q");
+}
+
+#demo{
+    width: 50px;
+    height: 50px;
+    float: left;
+    position:fixed;
+    transition: 0.2s;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
